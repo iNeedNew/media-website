@@ -4,7 +4,7 @@ What ports are used on the host system?
 * 2000 - Nginx
   * if you want to change, change in docker compose, in service "web-server" directive ports. And rebuild services `docker-compose up --build --force-recreate`
 
-* 8080 - PhpMyAdmin
+* 8080 - Adminer
   * If you want you can remove this service "adminer" from docker compose. And rebuild services `docker-compose up --build --force-recreate`
 
 ~~~
