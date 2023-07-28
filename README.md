@@ -48,4 +48,8 @@ docker exec -it app php artisan db:seed
 ### Site http://localhost:2000
 ### PhpMyAdmin http://localhost:8080
 
+## DB Structure
+![image](https://github.com/iNeedNew/media-website/assets/60880948/034663f9-f099-4cd5-a8e3-3fdb1495f47d)
+
+
 
